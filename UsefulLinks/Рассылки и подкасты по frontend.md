@@ -12,16 +12,13 @@
 4. PonyFoo https://ponyfoo.com/weekly
 5. O’Reilly Web Newsletter https://www.oreilly.com/web-platform/...
 6. WDRL https://wdrl.info/
-
 7. JavaScript Weekly http://javascriptweekly.com/
 8. ES.Next News http://esnextnews.com/
 9. Node Weekly https://nodeweekly.com/
-
 10. CSS Weekly https://css-weekly.com/
 11. Web Design Weekly https://web-design-weekly.com/
 12. HeyDesigner https://heydesigner.com/newsletter/
 13. CSS Animation Weekly https://cssanimation.rocks/weekly/
-
 14. Mobile Dev Weekly https://mobiledevweekly.com/
 15. History of the Web https://thehistoryoftheweb.com/
 16. Web Tools Weekly https://webtoolsweekly.com/
