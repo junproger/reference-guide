@@ -83,9 +83,11 @@
 `git branch -M main`   
 `git push -u origin main`  
 
-
+3. Если происходит ошибка "fatal: refusing to merge unrelated histories", выполнить команду:  
+   `git pull origin main --allow-unrelated-histories` 
+   
 4. Создание новой ветки с названием "webpack" и переключение на нее `git checkout -b "webpack"`	
-6. Отправка изменений на сервер в ветку "webpack" `git push -u origin webpack`
+5. Отправка изменений на сервер в ветку "webpack" `git push -u origin webpack`
 
 ## Управление ветками
 Посмотреть список локальных веток: `git branch`
