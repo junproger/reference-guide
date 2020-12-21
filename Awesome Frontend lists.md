@@ -1,9 +1,14 @@
-# Рассылки и подкасты по frontend
-- [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
-    - [✅ 16 email-рассылок по frontend на английском языке](#-16-email-рассылок-по-frontend-на-английском-языке)
-    - [✅8 подкастов на русском языке](#8-подкастов-на-русском-языке)
-    - [✅16 подкастов на английском языке](#16-подкастов-на-английском-языке)
+# Awesome Frontend lists
+[TOC]
 
+## Форумы и помощь
+* [Stack Overflow](https://stackoverflow.com/) 
+* [Stack Overflow на русском](https://ru.stackoverflow.com/)
+* [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
+* [CodeProject](https://www.codeproject.com/)
+* [Toster.ru](https://toster.ru/tags)
+
+## Рассылки и подкасты по frontend
 ### ✅ 16 email-рассылок по frontend на английском языке 
 
 1. Frontend Focus https://frontendfoc.us/
@@ -24,7 +29,7 @@
 16. Web Tools Weekly https://webtoolsweekly.com/
 
 
-### ✅8 подкастов на русском языке
+### ✅ 8 подкастов на русском языке
 
 1. Frontend Weekend http://feeds.feedburner.com/frontendw...
 2. Frontend Юность https://soundcloud.com/frontend_u
