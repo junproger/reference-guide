@@ -3,7 +3,8 @@
 - [Gulp](#gulp)
   - [Полезные ссылки](#полезные-ссылки)
   - [Алгоритм настройки](#алгоритм-настройки)
-  - [Что включает в себя сборка?](#что-включает-в-себя-сборка)
+  - [Что я использую в сборке?](#что-я-использую-в-сборке)
+  - [Что еще можно использовать в сборке?](#что-еще-можно-использовать-в-сборке)
   - [Как перенести файлы проекта](#как-перенести-файлы-проекта)
 
 ## Полезные ссылки
@@ -30,7 +31,7 @@ const { src, dest, series, parallel, watch } = require('gulp');
 ```
 7. Создать необходимые задачи (tasks)
 
-## Что включает в себя сборка?
+## Что я использую в сборке?
 * [cross-env](https://www.npmjs.com/package/cross-env) - инструмент для достижения кросс-платформенной совместимости скриптов (`npm i -D cross-env`);
 * [gulp-if](https://www.npmjs.com/package/gulp-if) - выбор варианта исполнения (`npm i -D gulp-if`);
 * [del](https://www.npmjs.com/package/del) - удаление файлов и папок (`npm i -D del`);
@@ -47,24 +48,25 @@ const { src, dest, series, parallel, watch } = require('gulp');
 * [autoprefixer](https://www.npmjs.com/package/autoprefixer) — автоматически расставляет вендорные префиксы в CSS (`npm i -D autoprefixer`);
 * [cssnano](https://www.npmjs.com/package/cssnano) - минификация css (`npm i -D cssnano`); 
 * [gulp-group-css-media-queries](https://www.npmjs.com/package/gulp-group-css-media-queries) - группировка медиазапросов (`npm i -D gulp-group-css-media-queries`);
-* 
 * [gulp-babel](https://www.npmjs.com/package/gulp-babel) - использование ES6 с [Babel](https://babeljs.io/) (`npm i -D gulp-babel @babel/core @babel/preset-env`);
 * [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) — минификация JS-файлов (`npm i -D gulp-uglify`);
-
 * [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin) — сжатие изображений PNG, JPG, GIF и SVG (`npm i -D gulp-imagemin`);
+* [imagemin-optipng](https://github.com/imagemin/imagemin-optipng) — дополнение к gulp-imagemin для работы с PNG-изображениями (`npm i -D imagemin-optipng`);
+* [imagemin-mozjpeg](https://github.com/imagemin/imagemin-mozjpeg) — дополнение к gulp-imagemin для работы с JPG-изображениями (`npm i -D imagemin-mozjpeg`);
+* [imagemin-gifsicle](https://github.com/imagemin/imagemin-gifsicle) — дополнение к gulp-imagemin для работы с GIF-изображениями (`npm i -D imagemin-gifsicle`);
+* [imagemin-svgo](https://github.com/imagemin/imagemin-svgo) — дополнение к gulp-imagemin для работы с SVG-изображениями (`npm i -D imagemin-svgo`);
 * [gulp-svgo](https://www.npmjs.com/package/gulp-svgo) - оптимизация svg (`npm i -D gulp-svgo`);
 * [gulp-svg-sprite](https://www.npmjs.com/package/gulp-svg-sprite) — создание SVG-спрайтов (`npm i -D gulp-svg-sprite`);
 * [gulp-changed](https://www.npmjs.com/package/gulp-changed) - запускает таски только для изменившихся файлов (`npm i -D gulp-changed`);
-
 * [gulp-favicons](https://github.com/evilebottnawi/favicons) — генератор фавиконок для вашего проекта (`npm i -D gulp-favicons`);
 * [gulp-replace](https://www.npmjs.com/package/gulp-replace) - замена строк (`npm i -D gulp-replace`);
-* 
+  
+## Что еще можно использовать в сборке?
 * [imagemin-pngquant](https://www.npmjs.com/package/imagemin-pngquant) — дополнение к gulp-imagemin для работы с PNG-изображениями;
 * [imagemin-jpeg-recompress](https://www.npmjs.com/package/imagemin-jpeg-recompress) — дополнение к gulp-imagemin для работы с JPG-изображениями;
 * [gulp-iconfont](https://www.npmjs.com/package/gulp-iconfont) — генератор иконочного шрифта из SVG-изображений;
 * [gulp-iconfont-css](https://www.npmjs.com/package/gulp-iconfont-css) — генератор стилей для иконочного шрифта;
-* [gulp-newer](https://www.npmjs.com/package/gulp-newer) — дополнительный плагин к ```gulp-imagemin```, позволяет сжимать только новые изображения;
-* 
+* [gulp-newer](https://www.npmjs.com/package/gulp-newer) — дополнительный плагин к ```gulp-imagemin```, позволяет сжимать только новые изображения;* 
 * [gulp-clean](https://www.npmjs.com/package/gulp-clean) — удаление файлов и папок.
 * [gulp-rigger](https://www.npmjs.com/package/gulp-rigger) - позволяет вставлять содержимое из отдельных файлов в основной;
 * [gulp-clean-css](https://www.npmjs.com/package/gulp-clean-css) — минификация CSS-файлов;
