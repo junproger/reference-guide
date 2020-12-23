@@ -4,7 +4,6 @@
   - [Полезные ссылки](#полезные-ссылки)
   - [Алгоритм настройки](#алгоритм-настройки)
   - [Что я использую в сборке?](#что-я-использую-в-сборке)
-  - [Что еще можно использовать в сборке?](#что-еще-можно-использовать-в-сборке)
   - [Как перенести файлы проекта](#как-перенести-файлы-проекта)
 
 ## Полезные ссылки
@@ -60,8 +59,7 @@ const { src, dest, series, parallel, watch } = require('gulp');
 * [gulp-changed](https://www.npmjs.com/package/gulp-changed) - запускает таски только для изменившихся файлов (`npm i -D gulp-changed`);
 * [gulp-favicons](https://github.com/evilebottnawi/favicons) — генератор фавиконок для вашего проекта (`npm i -D gulp-favicons`);
 * [gulp-replace](https://www.npmjs.com/package/gulp-replace) - замена строк (`npm i -D gulp-replace`);
-  
-## Что еще можно использовать в сборке?
+    ## Что еще можно использовать в сборке?
 * [imagemin-pngquant](https://www.npmjs.com/package/imagemin-pngquant) — дополнение к gulp-imagemin для работы с PNG-изображениями;
 * [imagemin-jpeg-recompress](https://www.npmjs.com/package/imagemin-jpeg-recompress) — дополнение к gulp-imagemin для работы с JPG-изображениями;
 * [gulp-iconfont](https://www.npmjs.com/package/gulp-iconfont) — генератор иконочного шрифта из SVG-изображений;
