@@ -32,34 +32,29 @@ const { src, dest, series, parallel, watch } = require('gulp');
 
 ## Что я использую в сборке?
 * [cross-env](https://www.npmjs.com/package/cross-env) - инструмент для достижения кросс-платформенной совместимости скриптов (`npm i -D cross-env`);
-* [gulp-if](https://www.npmjs.com/package/gulp-if) - выбор варианта исполнения (`npm i -D gulp-if`);
 * [del](https://www.npmjs.com/package/del) - удаление файлов и папок (`npm i -D del`);
 * [browser-sync](https://browsersync.io/docs/gulp) - живая перезагрузка веб-страницы при внесении изменений в файлы проекта (`npm i -D browser-sync`);
 * [gulp-concat](https://www.npmjs.com/package/gulp-concat) - объединение файлов (`npm i -D gulp-concat`);
 * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps) - карта стилей (`npm i -D gulp-sourcemaps`);
 * [gulp-file-include](https://www.npmjs.com/package/gulp-file-include) - подключение файлов друг в друга (`npm i -D gulp-file-include`);
 * [gulp-htmlmin](https://www.npmjs.com/package/gulp-htmlmin) - минификация html (`npm i -D gulp-htmlmin`);
-
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass) — компиляция SCSS в CSS (`npm install --save-dev node-sass gulp-sass`);
 * [gulp-sass-glob](https://www.npmjs.com/package/gulp-sass-glob) - глобальный импорт sass-файлов (`npm i -D gulp-sass-glob`);
 * [gulp-postcss](https://www.npmjs.com/package/gulp-postcss) - подключение к проекту PostCSS (`npm i -D gulp-postcss`);
 * [postcss-pxtorem](https://www.npmjs.com/package/postcss-pxtorem) - перевод px в rem (`npm i -D postcss-pxtorem`); 
 * [autoprefixer](https://www.npmjs.com/package/autoprefixer) — автоматически расставляет вендорные префиксы в CSS (`npm i -D autoprefixer`);
-* [cssnano](https://www.npmjs.com/package/cssnano) - минификация css (`npm i -D cssnano`); 
-* [gulp-group-css-media-queries](https://www.npmjs.com/package/gulp-group-css-media-queries) - группировка медиазапросов (`npm i -D gulp-group-css-media-queries`);
+* [mqpacker](https://www.npmjs.com/package/mqpacker) - группировка медиазапросов (`npm i -D mqpacker`);
 * [gulp-babel](https://www.npmjs.com/package/gulp-babel) - использование ES6 с [Babel](https://babeljs.io/) (`npm i -D gulp-babel @babel/core @babel/preset-env`);
 * [gulp-uglify](https://www.npmjs.com/package/gulp-uglify) — минификация JS-файлов (`npm i -D gulp-uglify`);
 * [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin) — сжатие изображений PNG, JPG, GIF и SVG (`npm i -D gulp-imagemin`);
-* [imagemin-optipng](https://github.com/imagemin/imagemin-optipng) — дополнение к gulp-imagemin для работы с PNG-изображениями (`npm i -D imagemin-optipng`);
-* [imagemin-mozjpeg](https://github.com/imagemin/imagemin-mozjpeg) — дополнение к gulp-imagemin для работы с JPG-изображениями (`npm i -D imagemin-mozjpeg`);
-* [imagemin-gifsicle](https://github.com/imagemin/imagemin-gifsicle) — дополнение к gulp-imagemin для работы с GIF-изображениями (`npm i -D imagemin-gifsicle`);
-* [imagemin-svgo](https://github.com/imagemin/imagemin-svgo) — дополнение к gulp-imagemin для работы с SVG-изображениями (`npm i -D imagemin-svgo`);
-* [gulp-svgo](https://www.npmjs.com/package/gulp-svgo) - оптимизация svg (`npm i -D gulp-svgo`);
 * [gulp-svg-sprite](https://www.npmjs.com/package/gulp-svg-sprite) — создание SVG-спрайтов (`npm i -D gulp-svg-sprite`);
 * [gulp-changed](https://www.npmjs.com/package/gulp-changed) - запускает таски только для изменившихся файлов (`npm i -D gulp-changed`);
 * [gulp-favicons](https://github.com/evilebottnawi/favicons) — генератор фавиконок для вашего проекта (`npm i -D gulp-favicons`);
 * [gulp-replace](https://www.npmjs.com/package/gulp-replace) - замена строк (`npm i -D gulp-replace`);
     ## Что еще можно использовать в сборке?
+* [gulp-if](https://www.npmjs.com/package/gulp-if) - выбор варианта исполнения (`npm i -D gulp-if`);
+* [cssnano](https://www.npmjs.com/package/cssnano) - минификация css (`npm i -D cssnano`); 
+* [gulp-group-css-media-queries](https://www.npmjs.com/package/gulp-group-css-media-queries) - группировка медиазапросов (`npm i -D gulp-group-css-media-queries`);
 * [imagemin-pngquant](https://www.npmjs.com/package/imagemin-pngquant) — дополнение к gulp-imagemin для работы с PNG-изображениями;
 * [imagemin-jpeg-recompress](https://www.npmjs.com/package/imagemin-jpeg-recompress) — дополнение к gulp-imagemin для работы с JPG-изображениями;
 * [gulp-iconfont](https://www.npmjs.com/package/gulp-iconfont) — генератор иконочного шрифта из SVG-изображений;
