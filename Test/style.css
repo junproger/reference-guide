@@ -1,0 +1,13 @@
+.image {
+    margin: 10px;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+
+.wrapper::after {
+    content: '';
+    display: block;
+    clear: both;
+}
