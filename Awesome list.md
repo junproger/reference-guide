@@ -1,11 +1,33 @@
 # Awesome list
 - [Awesome list](#awesome-list)
   - [Инструменты](#инструменты)
+    - [Разработка](#разработка)
+    - [Контроль версий](#контроль-версий)
+    - [Сборка](#сборка)
     - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
   - [Форумы и помощь](#форумы-и-помощь)
   - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
 
 ## Инструменты
+
+### Разработка
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Open Server Panel](https://ospanel.io/download/)
+* [Node.js](https://nodejs.org/en/)
+* Браузеры:
+  * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
+  * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
+
+### Контроль версий
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
+### Сборка
+* [npm](https://www.npmjs.com/)
+* [Gulp](https://gulpjs.com/)
+* [Webpack](https://webpack.js.org/)
+* [Babel](https://babeljs.io/)
+* [Browsersync](https://browsersync.io/)
+* [Create App]() - Frontend build config generator for starting a new webpack or Parcel project
 ### Интересные сервисы и сайты
 * [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.  
 * [Airtable](https://airtable.com/) - сервис, позволяющий создавать базы данных на все случаи жизни.  
