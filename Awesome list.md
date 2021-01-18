@@ -1,5 +1,5 @@
-# Awesome lists
-- [Awesome lists](#awesome-lists)
+# Awesome list
+- [Awesome list](#awesome-list)
   - [Инструменты](#инструменты)
     - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
   - [Форумы и помощь](#форумы-и-помощь)
