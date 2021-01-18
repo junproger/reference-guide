@@ -1,13 +1,22 @@
 # Awesome list
 - [Awesome list](#awesome-list)
+  - [- Рассылки и подкасты по frontend](#--рассылки-и-подкасты-по-frontend)
+  - [Разное](#разное)
   - [Инструменты](#инструменты)
     - [Разработка](#разработка)
     - [Контроль версий](#контроль-версий)
-    - [Сборка](#сборка)
+    - [Инструменты сборки (Build Tools )](#инструменты-сборки-build-tools-)
+      - [Пакетные менеджеры (Package Managers)](#пакетные-менеджеры-package-managers)
+      - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
     - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
   - [Форумы и помощь](#форумы-и-помощь)
   - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
+---
+## Разное
+1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
+2. [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
 
+---
 ## Инструменты
 
 ### Разработка
@@ -20,14 +29,30 @@
 
 ### Контроль версий
 * [Git](https://git-scm.com/)
+  <details><summary>📚 Полезные ресурсы</summary>
+
+    *    
+
+  </details>
 * [GitHub](https://github.com/)
-### Сборка
+### Инструменты сборки (Build Tools )
+#### Пакетные менеджеры (Package Managers)
+
 * [npm](https://www.npmjs.com/)
+  <details><summary>📚 Полезные ресурсы</summary>
+
+    * [npm Cheat Sheet - Most Common Commands and nvm](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)    
+    * [8 npm Tricks You Can Use to Impress Your Colleagues](https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/)    
+
+  </details>
+  
+  
+#### Бандлеры (Module Bundlers)
 * [Gulp](https://gulpjs.com/)
 * [Webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
 * [Browsersync](https://browsersync.io/)
-* [Create App]() - Frontend build config generator for starting a new webpack or Parcel project
+* [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
 ### Интересные сервисы и сайты
 * [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.  
 * [Airtable](https://airtable.com/) - сервис, позволяющий создавать базы данных на все случаи жизни.  
