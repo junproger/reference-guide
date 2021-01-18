@@ -4,7 +4,9 @@
   - [Разное](#разное)
   - [Инструменты](#инструменты)
     - [Разработка](#разработка)
-    - [Контроль версий](#контроль-версий)
+    - [Управление версиями (Version Control)](#управление-версиями-version-control)
+      - [Системы контроля версий (Version Control System)](#системы-контроля-версий-version-control-system)
+      - [Системы управления репозиториями (Repo hosting services)](#системы-управления-репозиториями-repo-hosting-services)
     - [Инструменты сборки (Build Tools )](#инструменты-сборки-build-tools-)
       - [Пакетные менеджеры (Package Managers)](#пакетные-менеджеры-package-managers)
       - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
@@ -27,20 +29,28 @@
   * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
   * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
 
-### Контроль версий
+### Управление версиями (Version Control)
+#### Системы контроля версий (Version Control System)
 * [Git](https://git-scm.com/)
   <details><summary>📚 Полезные ресурсы</summary>
 
-    *    
+    * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)   
 
   </details>
+#### Системы управления репозиториями (Repo hosting services)
 * [GitHub](https://github.com/)
+* GitLab
+* Bitbucket
 ### Инструменты сборки (Build Tools )
 #### Пакетные менеджеры (Package Managers)
 
 * [npm](https://www.npmjs.com/)
   <details><summary>📚 Полезные ресурсы</summary>
 
+    * [npm Docs](https://docs.npmjs.com/)
+    * [Npm - пакетный менеджер](https://loftbooks.ru/npm)
+    * [Introduction to npm and basic npm commands](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)
+    * [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
     * [npm Cheat Sheet - Most Common Commands and nvm](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)    
     * [8 npm Tricks You Can Use to Impress Your Colleagues](https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/)    
 
