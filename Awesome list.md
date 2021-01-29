@@ -22,13 +22,23 @@
 ## Инструменты
 
 ### Разработка
-* [Visual Studio Code](https://code.visualstudio.com/)
+* Редакторы и IDE:
+  * [Emmet](https://docs.emmet.io/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+    <details><summary>📚 Полезные ресурсы</summary>
+
+    * [VSCodeThemes](https://vscodethemes.com/)   
+
+  </details>
+
+  * Vim
 * [Open Server Panel](https://ospanel.io/download/)
 * [Node.js](https://nodejs.org/en/)
 * Браузеры:
   * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
   * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
 
+---
 ### Управление версиями (Version Control)
 #### Системы контроля версий (Version Control System)
 * [Git](https://git-scm.com/)
@@ -41,6 +51,8 @@
 * [GitHub](https://github.com/)
 * GitLab
 * Bitbucket
+
+---
 ### Инструменты сборки (Build Tools )
 #### Пакетные менеджеры (Package Managers)
 
@@ -63,7 +75,12 @@
 * [Babel](https://babeljs.io/)
 * [Browsersync](https://browsersync.io/)
 * [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
+
+---
 ### Интересные сервисы и сайты
+
+* [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений
+* [SVGOMG](https://jakearchibald.github.io/svgomg/) - сервис для оптимизации SVG с возможностью настройки
 * [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.  
 * [Airtable](https://airtable.com/) - сервис, позволяющий создавать базы данных на все случаи жизни.  
 * [Bubble](https://bubble.io/) - мощный No-code инструмент для создания цифровых продуктов, который совмещает в себе frontend, backend, базу данных.   
