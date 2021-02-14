@@ -14,13 +14,22 @@
   - [Python](#python)
   - [GO](#go)
 - [Инструменты](#инструменты)
-  - [Разработка](#разработка)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
+  - [Инструменты разработки](#инструменты-разработки)
+    - [Редакторы и IDE](#редакторы-и-ide)
+    - [Линтеры и форматтеры](#линтеры-и-форматтеры)
+    - [Браузеры](#браузеры)
+    - [Бэкенд-разработка](#бэкенд-разработка)
   - [Инструменты сборки (Build Tools )](#инструменты-сборки-build-tools-)
     - [Пакетные менеджеры (Package Managers)](#пакетные-менеджеры-package-managers)
     - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
-  - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
-- [Разное](#разное-1)
+- [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
+    - [Интерактив](#интерактив)
+    - [Форумы и помощь](#форумы-и-помощь)
+    - [Тестирование верстки](#тестирование-верстки)
+    - [Карты и шаринг](#карты-и-шаринг)
+    - [Слепая печать](#слепая-печать)
+    - [Разное](#разное-1)
 - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
 
 # Технологии
@@ -43,6 +52,7 @@
   * [Документация по Bootstrap 5 на русском](https://bootstrap5.ru/)
   * [Вопросы, обсуждения и статьи по Bootstrap](https://getbootstrap.ru/)
   * [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
+  * [MDB](https://mdbootstrap.com/) - Material Design for Bootstrap 5 & 4
 * [__Materialize__](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
   
 ---
@@ -108,27 +118,6 @@
 
 ---
 # Инструменты
-## Разработка
-* **Редакторы и IDE:**
-  * [Emmet](https://docs.emmet.io/)
-  * [Visual Studio Code](https://code.visualstudio.com/)
-    <details><summary>📚 Полезные ресурсы</summary>
-
-    * [VSCodeThemes](https://vscodethemes.com/)   
-
-  </details>
-
-  * Vim
-* **Линтеры и форматтеры:** 
-  * [ESLint](https://eslint.org/) - Pluggable JavaScript linter
-* [Open Server Panel](https://ospanel.io/download/)
-* [Node.js](https://nodejs.org/en/)
-* **Браузеры:**
-  * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
-  * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
-
-
----
 ## Управление версиями (Version Control)
 * **Системы контроля версий (Version Control System)**
   * [Git](https://git-scm.com/)
@@ -141,6 +130,28 @@
   * [GitHub](https://github.com/)
   * GitLab
   * Bitbucket
+
+---
+## Инструменты разработки
+### Редакторы и IDE
+* [Emmet](https://docs.emmet.io/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+  <details><summary>📚 Полезные ресурсы</summary>
+
+  * [VSCodeThemes](https://vscodethemes.com/)   
+
+</details>
+
+* Vim
+### Линтеры и форматтеры 
+* [ESLint](https://eslint.org/) - Pluggable JavaScript linter
+### Браузеры
+* [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
+* [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
+### Бэкенд-разработка
+* [Open Server Panel](https://ospanel.io/download/)
+* [Node.js](https://nodejs.org/en/)
+
 
 ---
 ## Инструменты сборки (Build Tools )
@@ -167,29 +178,35 @@
 * [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
 
 ---
-## Интересные сервисы и сайты
-* **Интерактив:**
-  * [Тренажёры - HTML Academy](https://htmlacademy.ru/courses)
-  * [freeCodeCamp](https://www.freecodecamp.org/learn/)
-  * [Codewars](https://www.codewars.com/)
-  * [HackerRank](https://www.hackerrank.com/)
-* **Форумы и помощь:**
+# Интересные сервисы и сайты
+### Интерактив
+* [Тренажёры - HTML Academy](https://htmlacademy.ru/courses)
+* [freeCodeCamp](https://www.freecodecamp.org/learn/)
+* [Codewars](https://www.codewars.com/)
+* [HackerRank](https://www.hackerrank.com/)
+  
+### Форумы и помощь
   * [Stack Overflow](https://stackoverflow.com/) 
   * [Stack Overflow на русском](https://ru.stackoverflow.com/)
   * [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
   * [CodeProject](https://www.codeproject.com/)
   * [Toster.ru](https://toster.ru/tags)
-* **Тестирование верстки:**
+### Тестирование верстки
   * [The W3C Markup Validation Service](https://validator.w3.org/)
   * [Can I use... ](https://caniuse.com/)
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* **Карты и шаринг:**
+### Карты и шаринг
   * [Конструктор карт Яндекса](https://yandex.ru/map-constructor/)
   * [Google Карты](https://www.google.com/maps)
   * [Блок «Поделиться»](https://yandex.ru/dev/share/)
-* **Слепая печать:**
+### Слепая печать
   * [Klavarog Δ](https://klava.org/delta/dark.html#rus_adv) - клавиатурный тренажер
   * [Клавогонки](http://klavogonki.ru/) - онлайновый клавиатурный тренажер-игра
+
+### Разное
+* [😎 Awesome lists](https://github.com/sindresorhus/awesome)
+* [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
+* [Обучающее задание на фронтенд разработчика](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h6s/)
 * [Tiny Helpers](https://tiny-helpers.dev/) - Коллекция бесплатных онлайн-инструментов для веб-разработчиков
 * [Рефакторинг.Гуру](https://refactoring.guru/ru) - рефакторингу и паттерны проектирования
 * [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений
@@ -200,14 +217,8 @@
 * [Product Hunt](https://www.producthunt.com/) - сайт, на котором публикуются новинки технологических сервисов и приложений.  
 * [AlternativeTo](https://alternativeto.net/) - сайт, помогающий искать аналоги приложений для различных платформ.
 * [Laracasts](https://laracasts.com/) - Screencasts for the modern.developer
-
-
-
-
-# Разное
-1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
-2. [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
-3. [Обучающее задание на фронтенд разработчика](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h6s/)
+* [БМКарта](https://bmk-map.2035.university/) - Сервис аналитики рынка труда в сфере ИТ (вакансии, компетенции)
+* [Инфоподдержка вашей карьеры](https://enjoy-job.ru/professions/) - Каталог профессий
 
 # Рассылки и подкасты по frontend
 <details><summary>✅ 16 email-рассылок по frontend на английском языке</summary>
