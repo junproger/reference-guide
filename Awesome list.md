@@ -10,18 +10,15 @@
       - [Слайдеры](#слайдеры)
       - [Анимация](#анимация)
       - [Разное](#разное)
-  - [* Fancybox - JavaScript lightbox library for presenting various types of media](#-fancybox---javascript-lightbox-library-for-presenting-various-types-of-media)
+  - [* Easy Appointments - решение для online бронирования](#-easy-appointments---решение-для-online-бронирования)
   - [Typescript](#typescript)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
-    - [Системы контроля версий (Version Control System)](#системы-контроля-версий-version-control-system)
-    - [Системы управления репозиториями (Repo hosting services)](#системы-управления-репозиториями-repo-hosting-services)
   - [Инструменты сборки (Build Tools )](#инструменты-сборки-build-tools-)
     - [Пакетные менеджеры (Package Managers)](#пакетные-менеджеры-package-managers)
     - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
   - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
-- [Форумы и помощь](#форумы-и-помощь)
 - [Разное](#разное-1)
 - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
 
@@ -82,14 +79,15 @@
 * [Animista](https://animista.net/)
 * [CSS Animation Kit](http://angrytools.com/css/animation/)
 #### Разное
-* [Fancybox](https://fancyapps.com/fancybox/3/) - JavaScript lightbox library for presenting various types of media
+* [Fancybox](https://fancyapps.com/fancybox/3/) - jQuery плагин, который служит для создания фотогалерей и вывода другого контента в красивых модальных окнах
+* [Easy Appointments](https://easyappointments.org/) - решение для online бронирования
 ---
 ## [Typescript](https://www.typescriptlang.org/)
 
 ---
 # Инструменты
 ## Разработка
-* Редакторы и IDE:
+* **Редакторы и IDE:**
   * [Emmet](https://docs.emmet.io/)
   * [Visual Studio Code](https://code.visualstudio.com/)
     <details><summary>📚 Полезные ресурсы</summary>
@@ -99,26 +97,28 @@
   </details>
 
   * Vim
+* **Линтеры и форматтеры:** 
+  * [ESLint](https://eslint.org/) - Pluggable JavaScript linter
 * [Open Server Panel](https://ospanel.io/download/)
 * [Node.js](https://nodejs.org/en/)
-* Браузеры:
+* **Браузеры:**
   * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
   * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
 
 
 ---
 ## Управление версиями (Version Control)
-### Системы контроля версий (Version Control System)
-* [Git](https://git-scm.com/)
-  <details><summary>📚 Полезные ресурсы</summary>
+* **Системы контроля версий (Version Control System)**
+  * [Git](https://git-scm.com/)
+    <details><summary>📚 Полезные ресурсы</summary>
 
-    * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)   
+      * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)   
 
-  </details>
-### Системы управления репозиториями (Repo hosting services)
-* [GitHub](https://github.com/)
-* GitLab
-* Bitbucket
+    </details>
+* **Системы управления репозиториями (Repo hosting services)**
+  * [GitHub](https://github.com/)
+  * GitLab
+  * Bitbucket
 
 ---
 ## Инструменты сборки (Build Tools )
@@ -146,7 +146,25 @@
 
 ---
 ## Интересные сервисы и сайты
-
+* **Форумы и помощь:**
+  * [Stack Overflow](https://stackoverflow.com/) 
+  * [Stack Overflow на русском](https://ru.stackoverflow.com/)
+  * [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
+  * [CodeProject](https://www.codeproject.com/)
+  * [Toster.ru](https://toster.ru/tags)
+* **Тестирование верстки:**
+  * [The W3C Markup Validation Service](https://validator.w3.org/)
+  * [Can I use... ](https://caniuse.com/)
+  * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* **Карты и шаринг:**
+  * [Конструктор карт Яндекса](https://yandex.ru/map-constructor/)
+  * [Google Карты](https://www.google.com/maps)
+  * [Блок «Поделиться»](https://yandex.ru/dev/share/)
+* **Слепая печать:**
+  * [Klavarog Δ](https://klava.org/delta/dark.html#rus_adv) - клавиатурный тренажер
+  * [Клавогонки](http://klavogonki.ru/) - онлайновый клавиатурный тренажер-игра
+* [Tiny Helpers](https://tiny-helpers.dev/) - Коллекция бесплатных онлайн-инструментов для веб-разработчиков
+* [Рефакторинг.Гуру](https://refactoring.guru/ru) - рефакторингу и паттерны проектирования
 * [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - сервис для оптимизации SVG с возможностью настройки
 * [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.  
@@ -156,12 +174,7 @@
 * [AlternativeTo](https://alternativeto.net/) - сайт, помогающий искать аналоги приложений для различных платформ.
 
 
-# Форумы и помощь
-* [Stack Overflow](https://stackoverflow.com/) 
-* [Stack Overflow на русском](https://ru.stackoverflow.com/)
-* [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
-* [CodeProject](https://www.codeproject.com/)
-* [Toster.ru](https://toster.ru/tags)
+
 
 # Разное
 1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
@@ -178,9 +191,9 @@
 5. O’Reilly Web Newsletter https://www.oreilly.com/web-platform/...
 6. WDRL https://wdrl.info/
 7. JavaScript Weekly http://javascriptweekly.com/
-8.  ES.Next News http://esnextnews.com/
-9.  Node Weekly https://nodeweekly.com/
-10.  CSS Weekly https://css-weekly.com/
+8. ES.Next News http://esnextnews.com/
+9. Node Weekly https://nodeweekly.com/
+10. CSS Weekly https://css-weekly.com/
 11. Web Design Weekly https://web-design-weekly.com/
 12. HeyDesigner https://heydesigner.com/newsletter/
 13. CSS Animation Weekly https://cssanimation.rocks/weekly/
