@@ -3,8 +3,14 @@
     - [HTML-шаблонизаторы](#html-шаблонизаторы)
     - [CSS-препроцессоры](#css-препроцессоры)
     - [CSS-фреймворки](#css-фреймворки)
+  - [* **Materialize** - A modern responsive front-end framework based on Material Design](#-materialize---a-modern-responsive-front-end-framework-based-on-material-design)
   - [JavaScript](#javascript)
     - [Библиотеки и фреймворки](#библиотеки-и-фреймворки)
+    - [Плагины и сервисы](#плагины-и-сервисы)
+      - [Слайдеры](#слайдеры)
+      - [Анимация](#анимация)
+      - [Разное](#разное)
+  - [* Fancybox - JavaScript lightbox library for presenting various types of media](#-fancybox---javascript-lightbox-library-for-presenting-various-types-of-media)
   - [Typescript](#typescript)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
@@ -16,7 +22,7 @@
     - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
   - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
 - [Форумы и помощь](#форумы-и-помощь)
-- [Разное](#разное)
+- [Разное](#разное-1)
 - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
 
 # Технологии
@@ -40,9 +46,13 @@
   * [Вопросы, обсуждения и статьи по Bootstrap](https://getbootstrap.ru/)
   * [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
 * [**Materialize**](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
+---
 ## JavaScript
 
 ### Библиотеки и фреймворки
+* [jQuery](https://jquery.com/)
+  * [Документация по jQuery на русском](https://jquery-docs.ru/)
+  * [jquery.page2page.ru](http://jquery.page2page.ru) - Справочник функций jQuery
 * [React](https://reactjs.org/) - JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов
   * [Документация по React 5 на русском](https://ru.react.js.org/)
 * [Vue](https://vuejs.org/) - JavaScript-фреймворк с открытым исходным кодом для создания пользовательских интерфейсов
@@ -52,6 +62,28 @@
 * [D3.js](https://d3js.org/) - библиотека на языке JavaScript для обработки и визуализации данных
 * [Chart.js](https://www.chartjs.org/) - JavaScript-библиотека визуализации данных
 * [Highcharts](https://www.highcharts.com/) - библиотека для создания чартов написанная на JavaScript, позволяет легко добавлять интерактивные, анимированные графики на сайт или в веб-приложение
+
+### Плагины и сервисы
+#### Слайдеры
+* [Slick](http://kenwheeler.github.io/slick/)
+* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
+* [Swiper](https://swiperjs.com/)
+#### Анимация
+* [Шпаргалка функций плавности](https://easings.net/)
+* [Animate.css](https://animate.style/)
+* [wow.js](https://wowjs.uk/) - Reveal Animations When Scrolling
+* [Hover.css](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects
+* [CSShake](http://elrumordelaluz.github.io/csshake/)
+* [AniJS](http://anijs.github.io/#examples) - A Library to Raise your Web Design without Coding
+* [Bounce.js](http://bouncejs.com/)
+* [anime.js](https://animejs.com/) - JavaScript animation engine
+* [Magic Animations CSS3](https://www.minimamente.com/project/magic/)
+* [Wicked CSS3 Animations](http://kristofferandreasen.github.io/wickedCSS/#)
+* [Animista](https://animista.net/)
+* [CSS Animation Kit](http://angrytools.com/css/animation/)
+#### Разное
+* [Fancybox](https://fancyapps.com/fancybox/3/) - JavaScript lightbox library for presenting various types of media
+---
 ## [Typescript](https://www.typescriptlang.org/)
 
 ---
@@ -72,6 +104,7 @@
 * Браузеры:
   * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
   * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
+
 
 ---
 ## Управление версиями (Version Control)
