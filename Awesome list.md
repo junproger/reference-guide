@@ -10,6 +10,8 @@
       - [Анимация](#анимация)
       - [Разное](#разное)
   - [Typescript](#typescript)
+  - [PHP и WordPress](#php-и-wordpress)
+  - [Python](#python)
   - [GO](#go)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
@@ -85,6 +87,17 @@
 ---
 ## Typescript
 * [Официальный сайт Typescript](https://www.typescriptlang.org/)
+
+---
+## PHP и WordPress
+* [Руководство по PHP](https://www.php.net/manual/ru/index.php)
+* [Справочник языка PHP](https://php.ru/manual/)
+* [PHP Portal - Дайджест материалов](https://www.kobzarev.com/)
+* [WordPress как на ладони](https://wp-kama.ru/)
+  
+---
+
+## Python
 
 ---
 ## GO
@@ -186,6 +199,7 @@
 * [Bubble](https://bubble.io/) - мощный No-code инструмент для создания цифровых продуктов, который совмещает в себе frontend, backend, базу данных.   
 * [Product Hunt](https://www.producthunt.com/) - сайт, на котором публикуются новинки технологических сервисов и приложений.  
 * [AlternativeTo](https://alternativeto.net/) - сайт, помогающий искать аналоги приложений для различных платформ.
+* [Laracasts](https://laracasts.com/) - Screencasts for the modern.developer
 
 
 
