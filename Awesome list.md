@@ -3,15 +3,14 @@
     - [HTML-шаблонизаторы](#html-шаблонизаторы)
     - [CSS-препроцессоры](#css-препроцессоры)
     - [CSS-фреймворки](#css-фреймворки)
-  - [* **Materialize** - A modern responsive front-end framework based on Material Design](#-materialize---a-modern-responsive-front-end-framework-based-on-material-design)
   - [JavaScript](#javascript)
     - [Библиотеки и фреймворки](#библиотеки-и-фреймворки)
     - [Плагины и сервисы](#плагины-и-сервисы)
       - [Слайдеры](#слайдеры)
       - [Анимация](#анимация)
       - [Разное](#разное)
-  - [* Easy Appointments - решение для online бронирования](#-easy-appointments---решение-для-online-бронирования)
   - [Typescript](#typescript)
+  - [GO](#go)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
@@ -38,11 +37,12 @@
   * [Туториал по CSS препроцессору Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1)
 
 ### CSS-фреймворки
-* [**Bootstrap**](https://getbootstrap.com/)
+* [__Bootstrap__](https://getbootstrap.com/)
   * [Документация по Bootstrap 5 на русском](https://bootstrap5.ru/)
   * [Вопросы, обсуждения и статьи по Bootstrap](https://getbootstrap.ru/)
   * [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
-* [**Materialize**](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
+* [__Materialize__](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
+  
 ---
 ## JavaScript
 
@@ -81,8 +81,17 @@
 #### Разное
 * [Fancybox](https://fancyapps.com/fancybox/3/) - jQuery плагин, который служит для создания фотогалерей и вывода другого контента в красивых модальных окнах
 * [Easy Appointments](https://easyappointments.org/) - решение для online бронирования
+
 ---
-## [Typescript](https://www.typescriptlang.org/)
+## Typescript
+* [Официальный сайт Typescript](https://www.typescriptlang.org/)
+
+---
+## GO
+* [Официальный сайт GO](https://golang.org/)
+* [Golang - изучаем язык программирования GO](https://golangs.org/)
+* [Материалы по Go (golang)](https://gist.github.com/egorsmkv/9df2aef2eddf51986b6d2b5833a4423e): мануалы, статьи, книги и ссылки на сообщества
+* [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks/)
 
 ---
 # Инструменты
@@ -146,6 +155,11 @@
 
 ---
 ## Интересные сервисы и сайты
+* **Интерактив:**
+  * [Тренажёры - HTML Academy](https://htmlacademy.ru/courses)
+  * [freeCodeCamp](https://www.freecodecamp.org/learn/)
+  * [Codewars](https://www.codewars.com/)
+  * [HackerRank](https://www.hackerrank.com/)
 * **Форумы и помощь:**
   * [Stack Overflow](https://stackoverflow.com/) 
   * [Stack Overflow на русском](https://ru.stackoverflow.com/)
