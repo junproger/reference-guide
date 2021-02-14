@@ -3,6 +3,8 @@
     - [HTML-шаблонизаторы](#html-шаблонизаторы)
     - [CSS-препроцессоры](#css-препроцессоры)
   - [JavaScript](#javascript)
+    - [Библиотеки и фреймворки](#библиотеки-и-фреймворки)
+  - [**Typescript**](#typescript)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
@@ -20,18 +22,22 @@
 
 ## HTML&CSS
 ### HTML-шаблонизаторы
-* [Шаблонизатор Pug(Jade)](https://pugjs.org/api/getting-started.html)
+* [**Шаблонизатор Pug(Jade)**](https://pugjs.org/api/getting-started.html)
   * [Туториал по HTML препроцессору Pug (Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
 
 ### CSS-препроцессоры
-* [Препроцессор Sass](https://sass-lang.com/)
+* [**Препроцессор Sass**](https://sass-lang.com/)
   * [Документация по Sass на русском](https://sass-scss.ru/)
-* [Препроцессор Less](http://lesscss.org/)
+* [**Препроцессор Less**](http://lesscss.org/)
   * [Документация по Less на русском](https://lesscss.ru/)
-* [Препроцессор Stylus](https://stylus-lang.com/)
+* [**Препроцессор Stylus**](https://stylus-lang.com/)
   * [Туториал по CSS препроцессору Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1)
 
 ## JavaScript
+
+### Библиотеки и фреймворки
+
+## [**Typescript**](https://www.typescriptlang.org/)
 
 ---
 # Инструменты
@@ -112,6 +118,7 @@
 # Разное
 1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
 2. [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
+3. [Обучающее задание на фронтенд разработчика](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h6s/)
 
 # Рассылки и подкасты по frontend
 <details><summary>✅ 16 email-рассылок по frontend на английском языке</summary>
