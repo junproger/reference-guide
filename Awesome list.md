@@ -1,27 +1,25 @@
-# Awesome list
-- [Awesome list](#awesome-list)
-  - [- Рассылки и подкасты по frontend](#--рассылки-и-подкасты-по-frontend)
-  - [Разное](#разное)
-  - [Инструменты](#инструменты)
-    - [Разработка](#разработка)
-    - [Управление версиями (Version Control)](#управление-версиями-version-control)
-      - [Системы контроля версий (Version Control System)](#системы-контроля-версий-version-control-system)
-      - [Системы управления репозиториями (Repo hosting services)](#системы-управления-репозиториями-repo-hosting-services)
-    - [Инструменты сборки (Build Tools )](#инструменты-сборки-build-tools-)
-      - [Пакетные менеджеры (Package Managers)](#пакетные-менеджеры-package-managers)
-      - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
-    - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
-  - [Форумы и помощь](#форумы-и-помощь)
-  - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
----
-## Разное
-1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
-2. [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
+[TOC]
+
+# Технологии
+
+## HTML&CSS
+### HTML-шаблонизаторы
+* [Шаблонизатор Pug(Jade)](https://pugjs.org/api/getting-started.html)
+  * [Туториал по HTML препроцессору Pug (Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
+
+### CSS-препроцессоры
+* [Препроцессор Sass](https://sass-lang.com/)
+  * [Документация по Sass на русском](https://sass-scss.ru/)
+* [Препроцессор Less](http://lesscss.org/)
+  * [Документация по Less на русском](https://lesscss.ru/)
+* [Препроцессор Stylus](https://stylus-lang.com/)
+  * [Туториал по CSS препроцессору Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1)
+
+## JavaScript
 
 ---
-## Инструменты
-
-### Разработка
+# Инструменты
+## Разработка
 * Редакторы и IDE:
   * [Emmet](https://docs.emmet.io/)
   * [Visual Studio Code](https://code.visualstudio.com/)
@@ -39,22 +37,22 @@
   * [Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
 
 ---
-### Управление версиями (Version Control)
-#### Системы контроля версий (Version Control System)
+## Управление версиями (Version Control)
+### Системы контроля версий (Version Control System)
 * [Git](https://git-scm.com/)
   <details><summary>📚 Полезные ресурсы</summary>
 
     * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)   
 
   </details>
-#### Системы управления репозиториями (Repo hosting services)
+### Системы управления репозиториями (Repo hosting services)
 * [GitHub](https://github.com/)
 * GitLab
 * Bitbucket
 
 ---
-### Инструменты сборки (Build Tools )
-#### Пакетные менеджеры (Package Managers)
+## Инструменты сборки (Build Tools )
+### Пакетные менеджеры (Package Managers)
 
 * [npm](https://www.npmjs.com/)
   <details><summary>📚 Полезные ресурсы</summary>
@@ -69,7 +67,7 @@
   </details>
   
   
-#### Бандлеры (Module Bundlers)
+### Бандлеры (Module Bundlers)
 * [Gulp](https://gulpjs.com/)
 * [Webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
@@ -77,7 +75,7 @@
 * [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
 
 ---
-### Интересные сервисы и сайты
+## Интересные сервисы и сайты
 
 * [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - сервис для оптимизации SVG с возможностью настройки
@@ -88,14 +86,18 @@
 * [AlternativeTo](https://alternativeto.net/) - сайт, помогающий искать аналоги приложений для различных платформ.
 
 
-## Форумы и помощь
+# Форумы и помощь
 * [Stack Overflow](https://stackoverflow.com/) 
 * [Stack Overflow на русском](https://ru.stackoverflow.com/)
 * [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
 * [CodeProject](https://www.codeproject.com/)
 * [Toster.ru](https://toster.ru/tags)
 
-## Рассылки и подкасты по frontend
+# Разное
+1. [😎 Awesome lists](https://github.com/sindresorhus/awesome)
+2. [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
+
+# Рассылки и подкасты по frontend
 <details><summary>✅ 16 email-рассылок по frontend на английском языке</summary>
 
 1. Frontend Focus https://frontendfoc.us/  
