@@ -2,9 +2,10 @@
   - [HTML&CSS](#htmlcss)
     - [HTML-шаблонизаторы](#html-шаблонизаторы)
     - [CSS-препроцессоры](#css-препроцессоры)
+    - [CSS-фреймворки](#css-фреймворки)
   - [JavaScript](#javascript)
     - [Библиотеки и фреймворки](#библиотеки-и-фреймворки)
-  - [**Typescript**](#typescript)
+  - [Typescript](#typescript)
 - [Инструменты](#инструменты)
   - [Разработка](#разработка)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
@@ -33,11 +34,25 @@
 * [**Препроцессор Stylus**](https://stylus-lang.com/)
   * [Туториал по CSS препроцессору Stylus](https://gist.github.com/neretin-trike/214fe69cf632fbd9db04d702b7f303c1)
 
+### CSS-фреймворки
+* [**Bootstrap**](https://getbootstrap.com/)
+  * [Документация по Bootstrap 5 на русском](https://bootstrap5.ru/)
+  * [Вопросы, обсуждения и статьи по Bootstrap](https://getbootstrap.ru/)
+  * [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
+* [**Materialize**](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
 ## JavaScript
 
 ### Библиотеки и фреймворки
-
-## [**Typescript**](https://www.typescriptlang.org/)
+* [React](https://reactjs.org/) - JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов
+  * [Документация по React 5 на русском](https://ru.react.js.org/)
+* [Vue](https://vuejs.org/) - JavaScript-фреймворк с открытым исходным кодом для создания пользовательских интерфейсов
+* [Angular](https://angular.io/) - открытая и свободная платформа для разработки веб-приложений, написанная на языке TypeScript, разрабатываемая командой из компании Google
+* [AngularJS](https://angularjs.org/) - JavaScript-фреймворк с открытым исходным кодом, предназначеный для разработки одностраничных приложений
+* [Lodash](https://lodash.com/) - библиотека JavaScript, которая помогает программистам писать более компактный и простой в обслуживании JavaScript код
+* [D3.js](https://d3js.org/) - библиотека на языке JavaScript для обработки и визуализации данных
+* [Chart.js](https://www.chartjs.org/) - JavaScript-библиотека визуализации данных
+* [Highcharts](https://www.highcharts.com/) - библиотека для создания чартов написанная на JavaScript, позволяет легко добавлять интерактивные, анимированные графики на сайт или в веб-приложение
+## [Typescript](https://www.typescriptlang.org/)
 
 ---
 # Инструменты
