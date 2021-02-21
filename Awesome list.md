@@ -25,6 +25,7 @@
     - [Бандлеры (Module Bundlers)](#бандлеры-module-bundlers)
 - [Интересные сервисы и сайты](#интересные-сервисы-и-сайты)
     - [Интерактив](#интерактив)
+    - [Онлайн школы и курсы](#онлайн-школы-и-курсы)
     - [Форумы и помощь](#форумы-и-помощь)
     - [Тестирование верстки](#тестирование-верстки)
     - [Карты и шаринг](#карты-и-шаринг)
@@ -103,7 +104,9 @@
 * [Руководство по PHP](https://www.php.net/manual/ru/index.php)
 * [Справочник языка PHP](https://php.ru/manual/)
 * [PHP Portal - Дайджест материалов](https://www.kobzarev.com/)
+* [Скачать WordPress (ru)](https://ru.wordpress.org/download/)
 * [WordPress как на ладони](https://wp-kama.ru/)
+* [developer.wordpress.org](https://developer.wordpress.org/)
   
 ---
 
@@ -139,6 +142,18 @@
   <details><summary>📚 Полезные ресурсы</summary>
 
   * [VSCodeThemes](https://vscodethemes.com/)   
+  * Список плагинов: 
+    1. Live Server — обновляет страницу в браузере 
+    1. All Autocomplete — подсказывает названия классов
+    1. Prettier — форматирует код
+    1. Wordpress Snippets 
+    1. FTP-Simple
+    1. Bootstrap 4 snippets
+    1. ES7 React/Redux
+    1. Gitignore
+    1. jQuery Code snippets
+    1. Polacode
+    1. Russian Language
 
 </details>
 
@@ -185,7 +200,31 @@
 * [Codewars](https://www.codewars.com/)
 * [HackerRank](https://www.hackerrank.com/)
   
+### Онлайн школы и курсы
+* [Учитесь, Блеать!](https://coursehunter.net/)
+* [Tocode](https://tocode.ru/)
+* [Типичный верстальщик](https://tpverstak.ru/)
+* [Vectree](https://vectree.ru/main)
+* [HTML Academy](https://htmlacademy.ru/)
+* [GeekBrains](https://geekbrains.ru/courses)
+* [Loftshool](https://loftschool.com/)
+* [Loftblog](https://loftblog.ru/)
+* [Geniuscourses](https://geniuscourses.com/)
+* [ITVDN](https://itvdn.com/ru)
+* [Яндекс Практикум](https://praktikum.yandex.ru/profile/web/)
+* [WebForMySelf](https://webformyself.com/)
+* [OTUS](https://otus.ru/nest/)
+* [WayUP](https://wayup.in/premiere)
+* [Нетология](https://netology.ru/)
+* [Skillbox](https://skillbox.ru/)
+* [Stepik](https://stepik.org/catalog)
+* [Hexlet](https://guides.hexlet.io/)
+* [Университет искуственного интеллеката](https://neural-university.ru/)
+* [Skillfactory](https://skillfactory.ru/)
+* [Технопарк Mail.ru](https://park.mail.ru/)
+* [Смартия](https://smartia.me/)
 ### Форумы и помощь
+  * [Microsoft Docs](docs.microsoft.com) - Домашняя страница документации и учебных ресурсов Майкрософт для разработчиков и технических специалистов
   * [Stack Overflow](https://stackoverflow.com/) 
   * [Stack Overflow на русском](https://ru.stackoverflow.com/)
   * [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
@@ -195,6 +234,7 @@
   * [The W3C Markup Validation Service](https://validator.w3.org/)
   * [Can I use... ](https://caniuse.com/)
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+  * [Browserstack](https://www.browserstack.com/)
 ### Карты и шаринг
   * [Конструктор карт Яндекса](https://yandex.ru/map-constructor/)
   * [Google Карты](https://www.google.com/maps)
@@ -207,6 +247,7 @@
 * [😎 Awesome lists](https://github.com/sindresorhus/awesome)
 * [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
 * [Обучающее задание на фронтенд разработчика](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h6s/)
+* [Storybook](https://storybook.js.org/) - Build bulletproof UI components faster
 * [Tiny Helpers](https://tiny-helpers.dev/) - Коллекция бесплатных онлайн-инструментов для веб-разработчиков
 * [Рефакторинг.Гуру](https://refactoring.guru/ru) - рефакторингу и паттерны проектирования
 * [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений

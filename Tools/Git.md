@@ -82,12 +82,8 @@
 `git remote add origin [url_репозитория]`  
 `git branch -M main`   
 `git push -u origin main`  
-
 3. Если происходит ошибка "fatal: refusing to merge unrelated histories", выполнить команду:  
    `git pull origin main --allow-unrelated-histories` 
-   
-4. Создание новой ветки с названием "webpack" и переключение на нее `git checkout -b "webpack"`	
-5. Отправка изменений на сервер в ветку "webpack" `git push -u origin webpack`
 
 ## Управление ветками
 Посмотреть список локальных веток: `git branch`
@@ -97,7 +93,7 @@
 Сравнить две ветки: `git diff [имя_ветки1] [имя_ветки2]`
 Переименовать ветку: `git branch -m [старое_имя_ветки] [новое_имя_ветки]`
 Отправить новую ветку в репозиторий: `git push --set-upstream origin [имя_ветки]` 
-
+Отправка изменений на сервер в определенную ветку  `git push -u origin [имя_ветки]`
 Удалить локальную ветку: `git branch -d [имя_ветки]`  
 Удалить удаленную ветку: `git push origin --delete [имя_ветки]`  
 
