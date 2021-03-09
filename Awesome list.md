@@ -260,6 +260,7 @@
 * [Laracasts](https://laracasts.com/) - Screencasts for the modern.developer
 * [БМКарта](https://bmk-map.2035.university/) - Сервис аналитики рынка труда в сфере ИТ (вакансии, компетенции)
 * [Инфоподдержка вашей карьеры](https://enjoy-job.ru/professions/) - Каталог профессий
+* [CSS Sprites Generator](https://www.toptal.com/developers/css/sprite-generator/) - CSS-спрайты
 
 # Рассылки и подкасты по frontend
 <details><summary>✅ 16 email-рассылок по frontend на английском языке</summary>
