@@ -1,6 +1,7 @@
 - [Технологии](#технологии)
   - [HTML&CSS](#htmlcss)
     - [HTML-шаблонизаторы](#html-шаблонизаторы)
+    - [CSS](#css)
     - [CSS-препроцессоры](#css-препроцессоры)
     - [CSS-фреймворки](#css-фреймворки)
   - [JavaScript](#javascript)
@@ -40,6 +41,12 @@
 * [**Шаблонизатор Pug(Jade)**](https://pugjs.org/api/getting-started.html)
   * [Туториал по HTML препроцессору Pug (Jade)](https://gist.github.com/neretin-trike/53aff5afb76153f050c958b82abd9228)
 
+### CSS
+* Flexbox
+  * [Список багов](https://github.com/philipwalton/flexbugs)
+  * [Шпаргалка №1](http://flexbox.malven.co/)
+  * [Шпаргалка №2](https://tpverstak.ru/flex-cheatsheet/)
+* Grid
 ### CSS-препроцессоры
 * [**Препроцессор Sass**](https://sass-lang.com/)
   * [Документация по Sass на русском](https://sass-scss.ru/)
