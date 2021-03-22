@@ -33,6 +33,14 @@
     - [Слепая печать](#слепая-печать)
     - [Разное](#разное-1)
 - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
+- [Дизайн](#дизайн)
+  - [Интересное](#интересное)
+  - [Сервисы для дизайна](#сервисы-для-дизайна)
+    - [Цвет](#цвет)
+    - [Типографика](#типографика)
+    - [Вырезание объектов и ретушь](#вырезание-объектов-и-ретушь)
+    - [Уроки](#уроки)
+    - [Разное](#разное-2)
 
 # Технологии
 
@@ -198,6 +206,8 @@
 * [Babel](https://babeljs.io/)
 * [Browsersync](https://browsersync.io/)
 * [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
+  
+
 
 ---
 # Интересные сервисы и сайты
@@ -325,3 +335,38 @@
 16. Front End Happy Hour https://frontendhappyhour.com/
 
 </details>
+
+# Дизайн
+
+## Интересное
+* [Тренды в графическом дизайне 2021](https://vc.ru/design/208195-trendy-graficheskogo-dizayna-2021)
+## Сервисы для дизайна
+
+### Цвет
+* [colorscheme.ru](https://colorscheme.ru/) - Цветовой круг
+* [Определение палитры по картинке](https://www.imgonline.com.ua/get-dominant-colors.php) 
+* __Статьи:__
+  * [Ещё раз о теории цвета](https://creativshik.com/eshhe-raz-o-teorii-cveta/)
+
+### Типографика
+* [GoogleFonts](https://fonts.google.com/) - Бесплатные шрифты
+* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Определение шрифта по картинке
+* __Расширения для браузера:__
+  * [FontFaceNinja](http://bit.ly/1xtCMjz​) - узнать какой шрифт используется на сайте
+  * [WhatFont](http://bit.ly/19OXtei​) - узнать какой шрифт используется на сайте 
+  * [Wordmark.it Extension](https://chrome.google.com/webstore/detail/wordmarkit-extension/plafaneablgcojpbaeefkmnheilloopl/) - Расширение для просмотра установленных шрифтов
+* __Статьи:__
+  * [25 правил типографики для начинающих дизайнеров](https://lifehacker.ru/25-pravil-tipografiki/)
+### Вырезание объектов и ретушь
+* [Adobe Photoshop Express](https://www.adobe.com/ru/photoshop/online/background-remover.html/) - Бесплатный онлайн-инструмент для удаления фона
+* [remove.bg](https://www.remove.bg/ru) - Удаление фона на изображениях
+* [Online Batch Image Editing Tools and Apps](https://editphotosforfree.com/) - Edit Photos For Free
+
+### Уроки
+* [figma.info](https://figma.info/blog/lessons/) - Уроки по Figma
+* [figma.center](https://figma.center/) - Figma — уроки на русском, плагины, макеты, инструкции как сделать
+* [creativo.one](https://creativo.one/lessons/) - Фотошоп Мастер, уроки Photoshop, Lightroom, Figma
+* [photoshop.demiart.ru](https://photoshop.demiart.ru/) - Уроки фотошоп
+
+### Разное
+* [The Bézier Game](https://bezier.method.ac/) - Тренажер по рисованию кривых Безье
