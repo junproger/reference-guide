@@ -6,12 +6,13 @@
 - [Работа с новым удаленным репозиторием](#работа-с-новым-удаленным-репозиторием)
 - [Выгрузка локального репозитория на GitHub](#выгрузка-локального-репозитория-на-github)
 - [Управление ветками](#управление-ветками)
+- [Как в Git поменять URL-адрес удаленного репозитория](#как-в-git-поменять-url-адрес-удаленного-репозитория)
 
 **Git представляет собой распределенную систему контроля версий, позволяющую контролировать процесс внесения изменений в проект.**
 
 ## Ссылки по Git
-* Официальный сайт https://git-scm.com/ 
-* Документация по командам https://git-scm.com/docs 
+* Официальный сайт https://git-scm.com/
+* Документация по командам https://git-scm.com/docs
 * Онлайн-версия книги "Pro Git" (на русском языке) https://git-scm.com/book/ru/v2
 * Система контроля версий Git. Часть I https://loftbooks.ru/git
 * Система контроля версий Git. Часть II https://loftbooks.ru/git-2
@@ -19,52 +20,52 @@
 
 ## Полезные команды Git
 
-Посмотреть непроиндексированные изменения: `git diff`  
-Посмотреть проиндексированные изменения: `git diff --staged`  
+Посмотреть непроиндексированные изменения: `git diff`
+Посмотреть проиндексированные изменения: `git diff --staged`
 
-Откатить изменения до предыдущего коммита: `git checkout file_name`   
-Откатить изменения до определенного коммита: `git checkout hash file_name` 
+Откатить изменения до предыдущего коммита: `git checkout file_name`
+Откатить изменения до определенного коммита: `git checkout hash file_name`
 
 ## Настройка Git
 
-Проверить версию Git `git --version`  
-Справочная информация `git [имя_команды] --help`  
+Проверить версию Git `git --version`
+Справочная информация `git [имя_команды] --help`
 
-Добавить имя пользователя и почту для всех проектов:  
-`git config --global user.name "Zachetka"`  
+Добавить имя пользователя и почту для всех проектов:
+`git config --global user.name "Zachetka"`
 `git config --global user.email axi83@mail.ru`
 
-Установить VSCode в качестве редактора поумолчанию для Git:  
+Установить VSCode в качестве редактора поумолчанию для Git:
 `git config --global core.editor "code --wait"`
 
-Настроить окончания строк  
-для Windows: `git config --global core.autocrlf true`  
+Настроить окончания строк
+для Windows: `git config --global core.autocrlf true`
 для Unix / Linux / OS X: `git config --global core.autocrlf input`
 
-Добавить имя пользователя и почту для локального проекта:  
-`git config --local user.name "Zachetka"` или `git config user.name "Zachetka"`    
-`git config --local user.email axi83@mail.ru` или `git config user.email axi83@mail.ru`  
+Добавить имя пользователя и почту для локального проекта:
+`git config --local user.name "Zachetka"` или `git config user.name "Zachetka"`
+`git config --local user.email axi83@mail.ru` или `git config user.email axi83@mail.ru`
 
-Посмотреть все установленные настройки: `git config --list`  
-Посмотреть только глобальные настройки: `git config --global --list`  
+Посмотреть все установленные настройки: `git config --list`
+Посмотреть только глобальные настройки: `git config --global --list`
 (файл настроек .gitconfig храниться в папке пользователя компьютера)
 Открыть файл .gitconfig для редактирования: `git config --global -e`
 
 ## Алгоритм работы c Git
 
 1. Создать репозиторий (инициализация) `git init`
-2. Проверить состояние репозитория `git status` или `git status -s` (кратко)    	
-3. Добавить файлы `git add .` 
+2. Проверить состояние репозитория `git status` или `git status -s` (кратко)
+3. Добавить файлы `git add .`
 4. Зафиксировать изменения (коммит) `git commit -m "Initial commit"` (по правилам, каждое изменение в репозитории мы должны сопроводить кратким описанием, что делает это изменение, например, «загружает файлы сайта»)
-5. Одновременно добавить файлы и зафиксировать изменения `git commit -am "Message"`  
+5. Одновременно добавить файлы и зафиксировать изменения `git commit -am "Message"`
 6. Изменить комментарий у последнего коммита `git commit --amend -m "New message"`
 
-Посмотреть историю коммитов: `git log`  
-Посмотреть изменения, внесенные отдельным коммитом: `git show hash` 
+Посмотреть историю коммитов: `git log`
+Посмотреть изменения, внесенные отдельным коммитом: `git show hash`
 
 ## Удаление, переименование и перемещение
-Удалить файл из рабочей директории и staging area `git rm file1.js`   
-Удалить файл только из staging area `git rm --cached file1.js`  
+Удалить файл из рабочей директории и staging area `git rm file1.js`
+Удалить файл только из staging area `git rm --cached file1.js`
 
 Переименовать или переместить файл `git mv file1.js file1.txt`
 
@@ -73,17 +74,17 @@
 2. Перейти в локальную директорию в которой будет создана папка с проектом
 3. Ввести команду с сылкой на клонируемый репозиторий `git clone https://github.com/zachetka/Test.git`
 4. Если необходимо получить изменения с удаленного репозитория `git pull`
-5. Если необходимо отправить изменения на удаленный репозиторий `git push`	
+5. Если необходимо отправить изменения на удаленный репозиторий `git push`
 6. Отключить локальный репозиторий от удаленного `git remote rm origin`
 
 ## Выгрузка локального репозитория на GitHub
 1. Создать пустой новый удаленный репозиторий
-2. Выполнить следующие команды:  
-`git remote add origin [url_репозитория]`  
-`git branch -M main`   
-`git push -u origin main`  
-3. Если происходит ошибка "fatal: refusing to merge unrelated histories", выполнить команду:  
-   `git pull origin main --allow-unrelated-histories` 
+2. Выполнить следующие команды:
+`git remote add origin [url_репозитория]`
+`git branch -M main`
+`git push -u origin main`
+3. Если происходит ошибка "fatal: refusing to merge unrelated histories", выполнить команду:
+   `git pull origin main --allow-unrelated-histories`
 
 ## Управление ветками
 Посмотреть список локальных веток: `git branch`
@@ -92,10 +93,21 @@
 Создать ветку и сразу переключиться на нее: `git checkout -b [имя_ветки]`
 Сравнить две ветки: `git diff [имя_ветки1] [имя_ветки2]`
 Переименовать ветку: `git branch -m [старое_имя_ветки] [новое_имя_ветки]`
-Отправить новую ветку в репозиторий: `git push --set-upstream origin [имя_ветки]` 
+Отправить новую ветку в репозиторий: `git push --set-upstream origin [имя_ветки]`
 Отправка изменений на сервер в определенную ветку  `git push -u origin [имя_ветки]`
-Удалить локальную ветку: `git branch -d [имя_ветки]`  
-Удалить удаленную ветку: `git push origin --delete [имя_ветки]`  
+Удалить локальную ветку: `git branch -d [имя_ветки]`
+Удалить удаленную ветку: `git push origin --delete [имя_ветки]`
 
 Объединить (слить) текущую ветку с другой: `git merge [имя_ветки]`
 Отменить процедуру слияния веток: `git merge –abort`
+
+## Как в Git поменять URL-адрес удаленного репозитория
+1. Посмотреть информацию обо всех имеющихся удаленных репозиториях: а именно синоним-алиас (чаще всего это будет алиас origin) и url до удаленного репозитория: `git remote -v`
+```code
+> origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
+> origin  git@github.com:USERNAME/REPOSITORY.git (push)
+```
+2. Поменять адресс удаленного репозитория (в команде требуется заменить URL на нужный):
+`git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
+
+В результате можно применять git push и код будет уже пушить на новый репозиторий. Проверить, что все успешно поменялось, также первой командой   `git remote -v`.
