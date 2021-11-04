@@ -7,17 +7,14 @@
   - [JavaScript](#javascript)
     - [Библиотеки и фреймворки](#библиотеки-и-фреймворки)
     - [Плагины и сервисы](#плагины-и-сервисы)
-      - [Слайдеры](#слайдеры)
       - [Анимация](#анимация)
       - [Разное](#разное)
   - [Typescript](#typescript)
   - [PHP и WordPress](#php-и-wordpress)
-  - [Python](#python)
   - [GO](#go)
 - [Инструменты](#инструменты)
   - [Управление версиями (Version Control)](#управление-версиями-version-control)
   - [Инструменты разработки](#инструменты-разработки)
-    - [Редакторы и IDE](#редакторы-и-ide)
     - [Линтеры и форматтеры](#линтеры-и-форматтеры)
     - [Браузеры](#браузеры)
     - [Бэкенд-разработка](#бэкенд-разработка)
@@ -30,7 +27,6 @@
     - [Форумы и помощь](#форумы-и-помощь)
     - [Тестирование верстки](#тестирование-верстки)
     - [Карты и шаринг](#карты-и-шаринг)
-    - [Слепая печать](#слепая-печать)
     - [Разное](#разное-1)
 - [Рассылки и подкасты по frontend](#рассылки-и-подкасты-по-frontend)
 - [Дизайн](#дизайн)
@@ -70,7 +66,7 @@
   * [Bootswatch](https://bootswatch.com/) - Free themes for Bootstrap
   * [MDB](https://mdbootstrap.com/) - Material Design for Bootstrap 5 & 4
 * [__Materialize__](https://materializecss.com/) - A modern responsive front-end framework based on Material Design
-  
+
 ---
 ## JavaScript
 
@@ -89,10 +85,7 @@
 * [Highcharts](https://www.highcharts.com/) - библиотека для создания чартов написанная на JavaScript, позволяет легко добавлять интерактивные, анимированные графики на сайт или в веб-приложение
 
 ### Плагины и сервисы
-#### Слайдеры
-* [Slick](http://kenwheeler.github.io/slick/)
-* [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
-* [Swiper](https://swiperjs.com/)
+
 #### Анимация
 * [Шпаргалка функций плавности](https://easings.net/)
 * [Animate.css](https://animate.style/)
@@ -107,7 +100,6 @@
 * [Animista](https://animista.net/)
 * [CSS Animation Kit](http://angrytools.com/css/animation/)
 #### Разное
-* [Fancybox](https://fancyapps.com/fancybox/3/) - jQuery плагин, который служит для создания фотогалерей и вывода другого контента в красивых модальных окнах
 * [Easy Appointments](https://easyappointments.org/) - решение для online бронирования
 
 ---
@@ -122,12 +114,9 @@
 * [Скачать WordPress (ru)](https://ru.wordpress.org/download/)
 * [WordPress как на ладони](https://wp-kama.ru/)
 * [developer.wordpress.org](https://developer.wordpress.org/)
-  
----
-
-## Python
 
 ---
+
 ## GO
 * [Официальный сайт GO](https://golang.org/)
 * [Golang - изучаем язык программирования GO](https://golangs.org/)
@@ -141,7 +130,7 @@
   * [Git](https://git-scm.com/)
     <details><summary>📚 Полезные ресурсы</summary>
 
-      * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)   
+      * [Как выучить Git с нуля](https://tproger.ru/curriculum/git-guide/)
 
     </details>
 * **Системы управления репозиториями (Repo hosting services)**
@@ -151,29 +140,7 @@
 
 ---
 ## Инструменты разработки
-### Редакторы и IDE
-* [Emmet](https://docs.emmet.io/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-  <details><summary>📚 Полезные ресурсы</summary>
-
-  * [VSCodeThemes](https://vscodethemes.com/)   
-  * Список плагинов: 
-    1. Live Server — обновляет страницу в браузере 
-    1. All Autocomplete — подсказывает названия классов
-    1. Prettier — форматирует код
-    1. Wordpress Snippets 
-    1. FTP-Simple
-    1. Bootstrap 4 snippets
-    1. ES7 React/Redux
-    1. Gitignore
-    1. jQuery Code snippets
-    1. Polacode
-    1. Russian Language
-
-</details>
-
-* Vim
-### Линтеры и форматтеры 
+### Линтеры и форматтеры
 * [ESLint](https://eslint.org/) - Pluggable JavaScript linter
 ### Браузеры
 * [Google Chrome for developers](https://www.google.com/intl/en_in/chrome/dev/)
@@ -194,19 +161,19 @@
     * [Npm - пакетный менеджер](https://loftbooks.ru/npm)
     * [Introduction to npm and basic npm commands](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-npm-and-basic-npm-commands-18aa16f69f6b)
     * [An Absolute Beginner's Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-    * [npm Cheat Sheet - Most Common Commands and nvm](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)    
-    * [8 npm Tricks You Can Use to Impress Your Colleagues](https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/)    
+    * [npm Cheat Sheet - Most Common Commands and nvm](https://www.freecodecamp.org/news/npm-cheat-sheet-most-common-commands-and-nvm/)
+    * [8 npm Tricks You Can Use to Impress Your Colleagues](https://www.freecodecamp.org/news/8-npm-tricks-you-can-use-to-impress-your-colleagues-dbdae1ef5f9e/)
 
   </details>
-  
-  
+
+
 ### Бандлеры (Module Bundlers)
 * [Gulp](https://gulpjs.com/)
 * [Webpack](https://webpack.js.org/)
 * [Babel](https://babeljs.io/)
 * [Browsersync](https://browsersync.io/)
 * [Create App](https://createapp.dev/) - Frontend build config generator for starting a new webpack or Parcel project
-  
+
 
 
 ---
@@ -216,7 +183,7 @@
 * [freeCodeCamp](https://www.freecodecamp.org/learn/)
 * [Codewars](https://www.codewars.com/)
 * [HackerRank](https://www.hackerrank.com/)
-  
+
 ### Онлайн школы и курсы
 * [Учитесь, Блеать!](https://coursehunter.net/)
 * [Tocode](https://tocode.ru/)
@@ -242,7 +209,7 @@
 * [Смартия](https://smartia.me/)
 ### Форумы и помощь
   * [Microsoft Docs](docs.microsoft.com) - Домашняя страница документации и учебных ресурсов Майкрософт для разработчиков и технических специалистов
-  * [Stack Overflow](https://stackoverflow.com/) 
+  * [Stack Overflow](https://stackoverflow.com/)
   * [Stack Overflow на русском](https://ru.stackoverflow.com/)
   * [Форум программистов и сисадминов Киберфорум](http://www.cyberforum.ru/)
   * [CodeProject](https://www.codeproject.com/)
@@ -256,10 +223,6 @@
   * [Конструктор карт Яндекса](https://yandex.ru/map-constructor/)
   * [Google Карты](https://www.google.com/maps)
   * [Блок «Поделиться»](https://yandex.ru/dev/share/)
-### Слепая печать
-  * [Klavarog Δ](https://klava.org/delta/dark.html#rus_adv) - клавиатурный тренажер
-  * [Клавогонки](http://klavogonki.ru/) - онлайновый клавиатурный тренажер-игра
-
 ### Разное
 * [😎 Awesome lists](https://github.com/sindresorhus/awesome)
 * [Free for developers](https://free-for.dev/#/?id=cdn-and-protection)
@@ -269,10 +232,10 @@
 * [Рефакторинг.Гуру](https://refactoring.guru/ru) - рефакторингу и паттерны проектирования
 * [Squoosh](https://squoosh.app/) - бесплатный сервис от Google для оптимизации изображений
 * [SVGOMG](https://jakearchibald.github.io/svgomg/) - сервис для оптимизации SVG с возможностью настройки
-* [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.  
-* [Airtable](https://airtable.com/) - сервис, позволяющий создавать базы данных на все случаи жизни.  
-* [Bubble](https://bubble.io/) - мощный No-code инструмент для создания цифровых продуктов, который совмещает в себе frontend, backend, базу данных.   
-* [Product Hunt](https://www.producthunt.com/) - сайт, на котором публикуются новинки технологических сервисов и приложений.  
+* [Integromat](https://www.integromat.com/en/) - многофункциональный инструмент, призванный автоматизировать ручные процессы.
+* [Airtable](https://airtable.com/) - сервис, позволяющий создавать базы данных на все случаи жизни.
+* [Bubble](https://bubble.io/) - мощный No-code инструмент для создания цифровых продуктов, который совмещает в себе frontend, backend, базу данных.
+* [Product Hunt](https://www.producthunt.com/) - сайт, на котором публикуются новинки технологических сервисов и приложений.
 * [AlternativeTo](https://alternativeto.net/) - сайт, помогающий искать аналоги приложений для различных платформ.
 * [Laracasts](https://laracasts.com/) - Screencasts for the modern.developer
 * [БМКарта](https://bmk-map.2035.university/) - Сервис аналитики рынка труда в сфере ИТ (вакансии, компетенции)
@@ -282,9 +245,9 @@
 # Рассылки и подкасты по frontend
 <details><summary>✅ 16 email-рассылок по frontend на английском языке</summary>
 
-1. Frontend Focus https://frontendfoc.us/  
-2. Frontend Weekly https://frontendweekly.co/  
-3. Responsive Web Design Weekly https://responsivedesign.is/  
+1. Frontend Focus https://frontendfoc.us/
+2. Frontend Weekly https://frontendweekly.co/
+3. Responsive Web Design Weekly https://responsivedesign.is/
 4. PonyFoo https://ponyfoo.com/weekly
 5. O’Reilly Web Newsletter https://www.oreilly.com/web-platform/...
 6. WDRL https://wdrl.info/
@@ -344,7 +307,7 @@
 
 ### Цвет
 * [colorscheme.ru](https://colorscheme.ru/) - Цветовой круг
-* [Определение палитры по картинке](https://www.imgonline.com.ua/get-dominant-colors.php) 
+* [Определение палитры по картинке](https://www.imgonline.com.ua/get-dominant-colors.php)
 * __Статьи:__
   * [Ещё раз о теории цвета](https://creativshik.com/eshhe-raz-o-teorii-cveta/)
 
@@ -353,7 +316,7 @@
 * [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - Определение шрифта по картинке
 * __Расширения для браузера:__
   * [FontFaceNinja](http://bit.ly/1xtCMjz​) - узнать какой шрифт используется на сайте
-  * [WhatFont](http://bit.ly/19OXtei​) - узнать какой шрифт используется на сайте 
+  * [WhatFont](http://bit.ly/19OXtei​) - узнать какой шрифт используется на сайте
   * [Wordmark.it Extension](https://chrome.google.com/webstore/detail/wordmarkit-extension/plafaneablgcojpbaeefkmnheilloopl/) - Расширение для просмотра установленных шрифтов
 * __Статьи:__
   * [25 правил типографики для начинающих дизайнеров](https://lifehacker.ru/25-pravil-tipografiki/)
