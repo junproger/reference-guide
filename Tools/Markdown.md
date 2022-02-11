@@ -117,15 +117,3 @@ Cинтаксис Markdown для добавления ссылок:
 
 ## Эмодзи
 :kissing_heart:
-
-Спойлер
-Если после символа цитирования поставить восклицательный знак (>!), то цитата выведется свёрнутой, и развернуть её пользователь сможет, кликнув по ней.
-
-В конце пятого эпизода выясняется, что
->! он его отец.
-
-<html><iframe width="560" height="315" src="https://www.youtube.com/embed/_2viL4MJIdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
-
-<video width="320" height="240" controls>
-  <source src="https://www.youtube.com/embed/_2viL4MJIdM" type="video/mp4">
-</video>
