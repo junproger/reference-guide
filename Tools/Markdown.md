@@ -126,4 +126,6 @@ Cинтаксис Markdown для добавления ссылок:
 
 <html><iframe width="560" height="315" src="https://www.youtube.com/embed/_2viL4MJIdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
-![MyVideo](https://www.youtube.com/embed/_2viL4MJIdM)
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/embed/_2viL4MJIdM" type="video/mp4">
+</video>
