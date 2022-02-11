@@ -96,7 +96,9 @@ Cинтаксис Markdown для добавления ссылок:
 
 ![Markdown](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png "Логотип Markdown")
 
-Ссылке на картинку тоже можно присвоить определенный id: ![Картинка][logo]
+Ссылке на картинку тоже можно присвоить определенный id:
+
+![Картинка][logo]
 
 [logo]: https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png "Логотип Markdown"
 
@@ -116,4 +118,10 @@ Cинтаксис Markdown для добавления ссылок:
 ## Эмодзи
 :kissing_heart:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_2viL4MJIdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Спойлер
+Если после символа цитирования поставить восклицательный знак (>!), то цитата выведется свёрнутой, и развернуть её пользователь сможет, кликнув по ней.
+
+В конце пятого эпизода выясняется, что
+>! он его отец.
+
+<html><iframe width="560" height="315" src="https://www.youtube.com/embed/_2viL4MJIdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
