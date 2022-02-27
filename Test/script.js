@@ -1,6 +1,7 @@
-function Test() {
-  for (let i = 0; i < 5; i++) {
-    console.log(i);    
-  }
-}
-Test();
+let admin;
+let name;
+
+name = "Джон";
+admin = name;
+
+alert(admin);
