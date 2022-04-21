@@ -10,3 +10,4 @@
 ## Статьи:
 1. [Руководство для начинающих по Sass](https://dev-gang.ru/article/rukovodstvo-dlja-naczinausczih-po-programmirovaniu-dlja-css-s-pomosczu-sass-zcg7lat6l6/)
 2. [Полный гайд по SCSS/SASS](https://medium.com/nuances-of-programming/%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-scss-sass-b09ae0c87afe)
+3. [Развёрнутое руководство по Sass/SCSS](https://tproger.ru/translations/complete-sass-guide/)
